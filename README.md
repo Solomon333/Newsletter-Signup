@@ -2,7 +2,7 @@
 
 An email sign-up page 
 
-- user submite email address.
+- user submit email address.
 
 - node.js.
 
