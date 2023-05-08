@@ -1,6 +1,6 @@
 # Newsletter-Signup
 
-An email sign-up page 
+ Email sign-up page 
 
 - user submit email address.
 
