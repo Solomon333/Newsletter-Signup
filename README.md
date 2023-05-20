@@ -2,8 +2,8 @@
 
  Email sign-up page 
 
-- user submit email address.
+- User submit email address.
 
-- node.js.
+- Node.js.
 
-- express.
+- Express.
