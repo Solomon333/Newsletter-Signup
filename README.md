@@ -4,6 +4,4 @@
 
 - User submit email address.
 
-- Node.js.
-
-- Express.
+- Node.js, Express.
